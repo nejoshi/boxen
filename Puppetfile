@@ -36,3 +36,14 @@ github "xquartz",    "1.1.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "chrome",     "1.1.1", :repo => "boxen/puppet-chrome"
+github "istatmenus4", "1.0.0", :repo => "boxen/puppet-istatmenus4"
+github "iterm2",     "1.0.3", :repo => "boxen/puppet-iterm2"
+github "java",       "1.1.0", :repo => "boxen/puppet-java"
+github "vim",        "1.0.5", :repo => "boxen/puppet-vim"
+github "vagrant",    "2.0.10", :repo => "boxen/puppet-vagrant"
+github "virtualbox", "1.0.5", :repo => "boxen/puppet-virtualbox"
+github "intellij",   "1.3.0", :repo => "boxen/puppet-intellij"
+github "github_for_mac", "1.0.1", :repo => "boxen/puppet-github_for_mac"
+github "vlc",        "1.0.4", :repo => "boxen/puppet-vlc"
