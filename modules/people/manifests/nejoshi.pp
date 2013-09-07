@@ -30,7 +30,10 @@ class people::nejoshi {
     include istatmenus4
     include java
     include vagrant
-    #include vim
+    include vim
+    vim::bundle { [
+      'rodjek/vim-puppet'
+    ]: }
     include virtualbox
     include vlc
 }
